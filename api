@@ -1,5 +1,9 @@
 {"success":true,"products":[
 
-    {"id":"1","nama":"T-shrit","harga":"500.000","url":"https://www.laking.com.tw/upload/images/ptsgoods/a74c2412-4513-4d1a-80ca-d4748d5301b4_md.jpg"}
+    {"id":"1","nama":"T-shrit","harga":"500.000","url":"https://www.laking.com.tw/upload/images/ptsgoods/a74c2412-4513-4d1a-80ca-d4748d5301b4_md.jpg"},
+
+    {"id":"2","nama":"T-shrit","harga":"500.000","url":"https://www.laking.com.tw/upload/images/ptsgoods/854a2033-e7d2-4599-8630-1b0d89f8187d_md.jpg"},
+
+    {"id":"3","nama":"T-shrit","harga":"500.000","url":"https://www.laking.com.tw/upload/images/ptsgoods/baafd56d-58b8-4a46-80a8-fae1b12ef0ad_md.jpg"}
     
     ],"totalRecordCount":10,"version":"17.0.13"}
